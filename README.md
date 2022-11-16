@@ -2,6 +2,9 @@
 
 I downloaded this github from extenal repo.
 
+Notes for this project :  https://docs.google.com/document/d/16Am5YWafwahQn-0xcdjgzeQX8bsOI1s_UT8QPuauNTs/edit?usp=sharing
+
+
 Source Repo : https://github.com/JohannesMilke/sqflite_database_example.git
 
 I have made the following changes to solve version errors.

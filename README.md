@@ -9,7 +9,7 @@ I have made the following changes to solve version errors.
 
 
 
-
+****---------------------------------------   android/app/build.gradle --------------------------------------------------------
 android/app/build.gradle       —>  ( 2 places to change )
 
 android {
@@ -17,7 +17,6 @@ android {
 
 
 defaultConfig {
-   // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
    applicationId "com.example.sqflite_database_example"
    minSdkVersion 30
    targetSdkVersion 30
@@ -25,6 +24,7 @@ defaultConfig {
    versionName flutterVersionName
 }
 
+****---------------------------------------------------android/build.gradle ----------------------------------------------
 
 android/build.gradle  ( —-> Change in 2 places )
 
@@ -39,6 +39,7 @@ dependencies {
 
 
 
+****----------------------------------------- \android\gradle\wrapper\gradle-wrapper.properties ------------------------------------------------------------------------------
 
 Gradle-wrapper.properties  ( Path   \android\gradle\wrapper\gradle-wrapper.properties
 
